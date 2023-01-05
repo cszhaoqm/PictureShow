@@ -1,5 +1,5 @@
-# Photo Show
-# 1007: basic photo show from NAS is tested OK
+# Picture Show
+# 20221007: basic photo show from NAS is tested OK
 import os
 import sys
 import time
